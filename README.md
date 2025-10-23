@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 
-<h3 align="center">Full Stack Developer | Learning LangChain.js | RAG & AI Agents Enthusiast</h3>
+<h3 align="center">Learning LangChain.js | RAG & AI Agents Enthusiast</h3>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
