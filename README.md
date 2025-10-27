@@ -1,214 +1,270 @@
-<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
+<div align="center">
 
-<h3 align="center">Learning LangChain.js | RAG & AI Agents Enthusiast</h3>
+# 👋 Hi, I'm Ankit Singh
 
-<p align="center">
-  <strong>👤 GitHub Username:</strong> ankitsingh7777903679<br/>
-  <strong>📅 Last Updated:</strong> 2025-10-27 19:57:35 UTC
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+LangChain+Enthusiast;Building+RAG+Applications;LangGraph+%26+AI+Agents" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ankitsingh7777903679&icon=0&color=6" alt="Profile Views"/>
-  </a>
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <!-- Replace the # with your actual links -->
-  <a href="mailto:ankitsingh77779036@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail" /></a>
-  <a href="https://github.com/ankitsingh7777903679"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio"/></a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<div align="left">
-
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="tailwind" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="php" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="c++" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python" />
-<img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma" />
-
-<!-- Concepts / Current -->
-<br/><br/>
-<img src="https://img.shields.io/badge/LangChain.js-0A0F25?style=for-the-badge&logo=chainlink&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" height="28" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="28" />
+[![Profile Views](https://komarev.com/ghpvc/?username=ankitsingh7777903679&color=blueviolet&style=for-the-badge)](https://github.com/ankitsingh7777903679)
+[![GitHub followers](https://img.shields.io/github/followers/ankitsingh7777903679?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitsingh7777903679?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/ankitsingh7777903679?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitsingh7777903679?tab=repositories)
 
 </div>
 
 ---
 
-## 🧪 Currently Learning
+## 🚀 About Me
 
-- LangChain.js (JavaScript LLM pipelines)
-- Building Retrieval-Augmented Generation (RAG) flows
-- Designing agent-like tool calling workflows
-- Supabase (as backend + vector storage)
-- Prisma (schema & DB abstraction)
-
----
-
-## 📂 Highlighted Repositories
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [toolHub](https://github.com/ankitsingh7777903679/toolHub) | Unified developer utilities hub | PHP, JS, Hack |
-| [bot_n8n](https://github.com/ankitsingh7777903679/bot_n8n) | Automation workflows + AI powered logic | Python, JS |
-| [Exame_Papers](https://github.com/ankitsingh7777903679/Exame_Papers) | Exam paper management & browsing | PHP / Org |
-| [newhomepage](https://github.com/ankitsingh7777903679/newhomepage) | Modern responsive homepage UI | HTML, CSS, JS |
-
----
-
-## 🧠 Mini RAG (LangChain.js Example)
-
-```bash
-npm install langchain @langchain/openai chromadb dotenv
+```typescript
+const ankit = {
+    location: "India 🇮🇳",
+    education: "Bachelor of Computer Applications (BCA)",
+    currentFocus: ["TypeScript", "LangChain.js", "LangGraph", "GroqCloud", "RAG Systems"],
+    passions: ["Building AI Tools", "Web Development", "Open Source"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
 ```
 
-```javascript
-import 'dotenv/config';
-import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-import { OpenAIEmbeddings, ChatOpenAI } from "@langchain/openai";
-import { Chroma } from "langchain/vectorstores/chroma";
+- 🎓 **BCA Student** passionate about cutting-edge technology
+- 🤖 Specializing in **LangChain.js**, **LangGraph**, **RAG (Retrieval-Augmented Generation)** & **AI Agents**
+- ⚡ Building with **GroqCloud** for lightning-fast LLM inference
+- 💻 Full-stack developer with focus on **TypeScript**, **React**, and **AI integration**
+- 🌱 Currently mastering **Vector Databases** and **Semantic Search**
+- 🎯 2025 Goal: Build production-ready AI applications
+- ⚡ Love turning complex problems into elegant solutions
 
-const docs = [
-  { pageContent: "ToolHub is a unified toolkit for developers." },
-  { pageContent: "Agents help automate multi-step reasoning." }
-];
+---
 
-const splitter = new RecursiveCharacterTextSplitter({ chunkSize: 120, chunkOverlap: 20 });
-const splitDocs = await splitter.splitDocuments(docs);
+## 🛠️ Tech Arsenal
 
-const embeddings = new OpenAIEmbeddings();
-const vectorstore = await Chroma.fromDocuments(splitDocs, embeddings, { collectionName: "demo" });
-const retriever = vectorstore.asRetriever(3);
+### **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-const llm = new ChatOpenAI({ modelName: "gpt-3.5-turbo", temperature: 0 });
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-const query = "What does ToolHub do?";
-const contextDocs = await retriever.getRelevantDocuments(query);
-const context = contextDocs.map(d => d.pageContent).join("\n");
+### **AI & Machine Learning**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=graphql&logoColor=white)
+![GroqCloud](https://img.shields.io/badge/GroqCloud-F55036?style=for-the-badge&logo=amd&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge)
 
-const prompt = `Use ONLY the context below.\nContext:\n${context}\n\nQ: ${query}\nA:`;
-const res = await llm.invoke(prompt);
-console.log(res.content);
+### **Databases & Backend**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+|------------|----------------|---------------|----------|
+| **[notbookll-clone](https://github.com/ankitsingh7777903679/notbookll-clone)** | NotebookLM clone with AI-powered features | TypeScript, LangGraph, GroqCloud | [Repo](https://github.com/ankitsingh7777903679/notbookll-clone) |
+| **[ToolHub](https://github.com/ankitsingh7777903679/toolHub)** | Unified developer utilities hub with essential tools | PHP, JavaScript, Hack | [Repo](https://github.com/ankitsingh7777903679/toolHub) |
+| **[bot_n8n](https://github.com/ankitsingh7777903679/bot_n8n)** | Automation workflows with AI-powered logic | Python, JavaScript | [Repo](https://github.com/ankitsingh7777903679/bot_n8n) |
+| **[Exame_Papers](https://github.com/ankitsingh7777903679/Exame_Papers)** | Exam paper management & browsing system | PHP | [Repo](https://github.com/ankitsingh7777903679/Exame_Papers) |
+| **[newhomepage](https://github.com/ankitsingh7777903679/newhomepage)** | Modern responsive homepage with sleek UI | HTML, CSS, JS | [Repo](https://github.com/ankitsingh7777903679/newhomepage) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitsingh7777903679&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3F8EF7&icon_color=3F8EF7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh7777903679&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EF7"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitsingh7777903679&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8EF7&fire=FF6B6B&currStreakLabel=3F8EF7)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankitsingh7777903679&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Current Focus (2025)
+
+```typescript
+const roadmap2025 = {
+    Q1: [
+        "✅ Master TypeScript & LangChain.js",
+        "✅ Build with GroqCloud for fast inference",
+        "🔄 Create LangGraph-powered AI agents",
+        "📝 Launch NotebookLM clone project"
+    ],
+    Q2: [
+        "🎯 Implement complex AI workflows with LangGraph",
+        "🚀 Scale RAG applications with production-ready features",
+        "📚 Contribute to LangChain & AI open-source projects"
+    ],
+    Q3_Q4: [
+        "🌐 Build full-stack AI SaaS product",
+        "🤝 Collaborate on innovative AI solutions",
+        "📖 Share knowledge through blogs/tutorials"
+    ]
+};
 ```
 
 ---
 
-## 📊 GitHub Logs
+## 💡 Code Snippet: LangGraph Agent with GroqCloud
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+```typescript
+import { ChatGroq } from "@langchain/groq";
+import { StateGraph } from "@langchain/langgraph";
+import { HumanMessage } from "@langchain/core/messages";
+
+// Initialize Groq with lightning-fast inference
+const model = new ChatGroq({
+  apiKey: process.env.GROQ_API_KEY,
+  modelName: "mixtral-8x7b-32768",
+  temperature: 0
+});
+
+// Define agent state
+interface AgentState {
+  messages: HumanMessage[];
+  nextStep: string;
+}
+
+// Create LangGraph workflow
+const workflow = new StateGraph<AgentState>({
+  channels: {
+    messages: { value: (x, y) => x.concat(y) },
+    nextStep: { value: (x, y) => y ?? x }
+  }
+});
+
+// Add agent node
+workflow.addNode("agent", async (state) => {
+  const response = await model.invoke(state.messages);
+  return {
+    messages: [response],
+    nextStep: "end"
+  };
+});
+
+// Set entry point and compile
+workflow.setEntryPoint("agent");
+const app = workflow.compile();
+
+// Execute
+const result = await app.invoke({
+  messages: [new HumanMessage("Build a RAG system with LangGraph")],
+  nextStep: "agent"
+});
+
+console.log(result.messages[result.messages.length - 1].content);
+```
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=ankitsingh7777903679&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh7777903679&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh7777903679&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=ankitsingh7777903679&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitsingh7777903679&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-## 🎯 Goals (2025)
-
-- Build a production-ready RAG prototype
-- Implement first LangChain.js agent with tool invocation
-- Integrate Supabase vectors + Prisma schema
-- Ship a small AI-powered utility for developers
+</div>
 
 ---
 
-## 🧾 Philosophy
+## 🌐 Connect With Me
 
-> Build consistently. Learn deliberately. Use AI to enhance—never to replace—your craft.
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsingh77779036@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitsingh7777903679)
+
+📧 **Email:** ankitsingh77779036@gmail.com
+
+</div>
 
 ---
 
-## 📬 Contact
+## 💭 Dev Quote
 
-Want to collaborate, brainstorm or build something?  
-📧 Email: **ankitsingh77779036@gmail.com**
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Philosophy
+
+> **"Build consistently. Learn deliberately. Use AI to enhance—never to replace—your craft."**
+
+---
+
+### 🌟 If you find my work interesting, consider giving it a ⭐!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<details>
+<summary>📊 More Stats</summary>
+
+### Detailed Metrics
+
+![Metrics](https://metrics.lecoq.io/ankitsingh7777903679?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata)
+
+</details>
 
 ---
 
 <p align="center">
-  <i>If this profile inspired you, consider ⭐ starring a repo!</i>
+  <strong>👤 GitHub Username:</strong> ankitsingh7777903679<br/>
+  <strong>📅 Last Updated:</strong> 2025-10-27 20:12:31 UTC
 </p>
-
-<!--
-Next steps for full effect:
-1. Add Snake Action (see instructions below)
-2. Replace social placeholders
-3. (Optional) Add metrics.svg via lowlighter/metrics
--->
-
-<!-- Snake GitHub Action (create .github/workflows/snake.yml) -->
-<!--
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: ["main"]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ankitsingh7777903679
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
