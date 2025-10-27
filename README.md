@@ -3,6 +3,11 @@
 <h3 align="center">Learning LangChain.js | RAG & AI Agents Enthusiast</h3>
 
 <p align="center">
+  <strong>👤 GitHub Username:</strong> ankitsingh7777903679<br/>
+  <strong>📅 Last Updated:</strong> 2025-10-27 19:57:35 UTC
+</p>
+
+<p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ankitsingh7777903679&icon=0&color=6" alt="Profile Views"/>
   </a>
@@ -14,10 +19,10 @@
 
 <p align="left">
   <!-- Replace the # with your actual links -->
-  <a href="mailto:ankitsingh77779036@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail"/></a>
-  <a href="https://github.com/ankitsingh7777903679"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter"/></a>
+  <a href="mailto:ankitsingh77779036@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail" /></a>
+  <a href="https://github.com/ankitsingh7777903679"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio"/></a>
 </p>
 
