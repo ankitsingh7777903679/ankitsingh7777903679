@@ -80,10 +80,10 @@ const ankit = {
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |------------|----------------|---------------|----------|
-| **[notbookll-clone](https://github.com/ankitsingh7777903679/notbookll-clone)** | NotebookLM clone with AI-powered features | TypeScript, LangGraph, GroqCloud | [Repo](https://github.com/ankitsingh7777903679/notbookll-clone) |
+| **[notbookll-clone](https://github.com/ankitsingh7777903679/notbookll-clone)** | NotebookLM clone with AI-powered features | TypeScript, LangChain, LangGraph, OpenAI, GroqCloud,  | [Repo](https://github.com/ankitsingh7777903679/notbookll-clone) |
 | **[ToolHub](https://github.com/ankitsingh7777903679/toolHub)** | Unified developer utilities hub with essential tools | PHP, JavaScript, Hack | [Repo](https://github.com/ankitsingh7777903679/toolHub) |
 | **[bot_n8n](https://github.com/ankitsingh7777903679/bot_n8n)** | Automation workflows with AI-powered logic | Python, JavaScript | [Repo](https://github.com/ankitsingh7777903679/bot_n8n) |
-| **[Exame_Papers](https://github.com/ankitsingh7777903679/Exame_Papers)** | Exam paper management & browsing system | PHP | [Repo](https://github.com/ankitsingh7777903679/Exame_Papers) |
+| **[Exame_Papers](https://github.com/ankitsingh7777903679/Exame_Papers)** | Exam paper management & browsing system | HTML, Css, js, BootStrap | [Repo](https://github.com/ankitsingh7777903679/Exame_Papers) |
 | **[newhomepage](https://github.com/ankitsingh7777903679/newhomepage)** | Modern responsive homepage with sleek UI | HTML, CSS, JS | [Repo](https://github.com/ankitsingh7777903679/newhomepage) |
 
 </div>
